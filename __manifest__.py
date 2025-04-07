@@ -9,7 +9,7 @@
         - open. open the pdf report in a new tab
         You can also set a default options for each report
     """,
-    'author': 'Sayed Mujtaba Hashimi',
+    'author': '',
     'category': 'Productivity',
     'images': ['images/main_1.png', 'images/main_screenshot.png'],
     'depends': ['web'],
